@@ -1,7 +1,7 @@
 while True:
     num = int(input('Digite um numero para tabuada: '))
     if num == 0:
-        print(' 0 = encerrar')
+        print('encerrar')
         break
 
     Nmin = int(input('Qual é o valor minimo da tabuada: '))
